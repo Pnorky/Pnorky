@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gian and I'm a Developer</h2>
+<h2 align="left">Hi👋! My name is Gian and I'm a Developer</h2>
 
 # 💫 About Me:
 🔭 I’m currently working on: real-world dev projects<br> 👯 I’m looking to collaborate on: open-source / web apps / APIs <br>🌱 I’m currently learning: TypeScript, React/Next.js, Node.js, and Qooxdoo
